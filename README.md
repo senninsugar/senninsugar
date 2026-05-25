@@ -70,7 +70,7 @@
 ---
 
 ### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/[あなたのGitHubID]/[あなたのGitHubID]/output/github-contribution-grid-snake.svg" alt="Snake" />
+<img src="https://raw.githubusercontent.com/senninsugar/output/github-contribution-grid-snake.svg" alt="Snake" />
 
 ---
 
